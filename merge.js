@@ -14,7 +14,7 @@ fs.readFile(
 			data,
 			function (err) {
 				if(err) throw err;
-				console.log('merge completed');
+				//console.log('merge completed');
 			}
 		);
 	});
